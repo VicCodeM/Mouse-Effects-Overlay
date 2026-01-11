@@ -1,6 +1,6 @@
 # 🖱️ Mouse Effects Overlay v9.0: Mega Edition
 
-![Banner](file:///C:/Users/Victor/.gemini/antigravity/brain/3c154ba6-2486-416a-ac85-c7190073ea3b/mouse_effects_v9_banner_1768097264088.png)
+![Banner](file:///image.png)
 
 **Mouse Effects Overlay v9.0** es la versión definitiva y más avanzada de la suite de personalización visual para Windows. Diseñada para transformar cada interacción con tu mouse y teclado en una experiencia vibrante y dinámica de partículas.
 
