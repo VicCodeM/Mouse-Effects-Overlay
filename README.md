@@ -81,7 +81,7 @@ Explora una variedad infinita de estéticas, desde lo natural hasta lo cibernét
 
 ## ⚖️ Licencia
 
-Este proyecto está bajo la Licencia **MIT**. Consulta el archivo [LICENSE](file:///c:/Users/Victor/Desktop/muasegotasdegua/LICENSE) para más detalles.
+Este proyecto está bajo la Licencia **MIT**. Consulta el archivo [LICENSE](file:///LICENSE) para más detalles.
 
 ---
 
